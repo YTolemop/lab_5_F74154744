@@ -1,0 +1,7 @@
+# Ignore build output
+build/
+lib/*
+bin/*
+
+# Ignore temporary files
+*.swp
